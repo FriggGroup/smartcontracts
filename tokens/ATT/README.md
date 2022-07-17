@@ -25,9 +25,9 @@ Once the bond reach the end of the Term, the issuer will repurchase each Token B
 * Decimals: 
 * Token Name: ATT
 * Security type: Zero Coupon Bond
-* Nominal Value: 1.7 million USD
-* Tenure: 14 years
-* Face Value: ...
+* Nominal Value: 2.0 million USD
+* Tenure: 15 years
+* Face Value: 3'644'238
 * Implied Interest: 4.0 %
 
 ## Installation and Running Tests
