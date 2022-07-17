@@ -1,3 +1,3 @@
 # Asset Backed Tokens
 
-some text
+All tokens follow a common naming convention after Asset Backed Tokens (ABT)
