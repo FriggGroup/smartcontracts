@@ -1,5 +1,5 @@
 # AgaTobwe Bond Token (ATT) - Smart Contract
-The ATT is a discounted bonds with an initial total nominal value of USD 1,700,000, face value of USD 2'976'143, and tenure of 14 yrs. implying a 4.00% yield. 
+The ATT is a discounted bonds with an initial total nominal value of USD 2,000,000, face value of USD 3'644'238, and tenure of 15 yrs. implying a 4.00% yield. 
 
 ## Audit
 * ATT Smart Contract Audit by ChainSecurity/Axelra (?) (The findings in the report should be resolved and approved by ChainSecurity/Axelra (?) )
